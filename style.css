@@ -56,6 +56,21 @@ thead{
     background-color: lightblue;
 }
 
+.image{
+    width: 312px;
+    height: 208px;
+}
+
+.text1{
+    background-image: url('./img/monitor.jpg');
+    color: white;
+}
+
+.text2{
+    background-image: url('./img/graph.jpg');
+    color: white;
+}
+
 
 
 
