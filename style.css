@@ -12,6 +12,11 @@ header{
     margin-top: 40px;
 }
 
+main{
+    width: 80%;
+    margin:auto
+}
+
 h2{
     font-size: 20px;
     color: gray;
