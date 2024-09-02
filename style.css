@@ -21,7 +21,7 @@ h1{
     font-size: 50px;
 }
 
-h2{
+#first-h2{
     font-size: 20px;
     color: gray;
 }
@@ -46,10 +46,22 @@ ul{
     margin-top: 10px;
 }
 
+table{
+    border-collapse: collapse;
+}
+
 thead{
     margin-left: 20px;
     background-color: rgb(46, 166, 206);
     color: white;
+}
+
+.normal{
+    width: 25%;
+}
+
+.special{
+    width: 50%;
 }
 
 .row{
@@ -64,6 +76,7 @@ thead{
 .text1{
     background-image: url('./img/monitor.jpg');
     color: white;
+
 }
 
 .text2{
