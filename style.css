@@ -44,4 +44,9 @@ ul{
 thead{
     margin-left: 20px;
     background-color: rgb(46, 166, 206);
+    color: white;
+}
+
+.row{
+    background-color: lightblue;
 }
