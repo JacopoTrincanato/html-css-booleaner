@@ -76,12 +76,14 @@ thead{
 .text1{
     background-image: url('./img/monitor.jpg');
     color: white;
+    padding: 15px;
 
 }
 
 .text2{
     background-image: url('./img/graph.jpg');
     color: white;
+    padding: 15px;
 }
 
 
