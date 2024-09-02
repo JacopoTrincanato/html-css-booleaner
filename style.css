@@ -11,3 +11,24 @@ header{
     margin-left: 30px;
     margin-top: 40px;
 }
+
+h2{
+    font-size: 20px;
+    color: gray;
+}
+
+h1{
+    font-size: 60px;
+}
+
+span{
+    color: rgb(46, 166, 206);
+}
+
+#main-photo1{
+    margin-top: 20px;
+}
+
+.image-text{
+    font-size: 12px;
+}
