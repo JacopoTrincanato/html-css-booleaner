@@ -21,7 +21,7 @@ h1{
     font-size: 60px;
 }
 
-span{
+.subtitle{
     color: rgb(46, 166, 206);
 }
 
@@ -31,4 +31,17 @@ span{
 
 .image-text{
     font-size: 12px;
+}
+
+.lorem-text{
+    background-color: yellow;
+}
+
+ul{
+    margin-top: 10px;
+}
+
+thead{
+    margin-left: 20px;
+    background-color: rgb(46, 166, 206);
 }
