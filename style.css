@@ -1,6 +1,6 @@
 header{
     background-image: url(./img/pattern.png);
-    background-color: rgb(66, 183, 221);
+    background-color: rgb(69, 184, 223);
     background-size: cover;
     background-position: center;
 }
@@ -84,6 +84,10 @@ thead{
     background-image: url('./img/graph.jpg');
     color: white;
     padding: 15px;
+}
+
+h3{
+    color: gray;
 }
 
 
