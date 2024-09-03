@@ -60,16 +60,15 @@ p{
 }
 
 thead{
-    margin-left: 20px;
     background-color: rgb(46, 166, 206);
     color: white;
 }
 
-.normal{
+.normal-td{
     width: 25%;
 }
 
-.special{
+.special-td{
     width: 50%;
 }
 
@@ -86,7 +85,7 @@ thead{
     background-image: url('./img/monitor.jpg');
     color: white;
     padding: 15px;
-    margin-top: 10px;
+    margin-bottom: 10px;
 
 }
 
@@ -94,12 +93,13 @@ thead{
     background-image: url('./img/graph.jpg');
     color: white;
     padding: 15px;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 h3{
     color: gray;
     margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 
