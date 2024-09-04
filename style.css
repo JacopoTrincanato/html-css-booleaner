@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    padding: 0;
 }
 
 header{
@@ -25,13 +26,17 @@ h1{
     font-size: 50px;
 }
 
-#first-h2{
+#author{
     font-size: 20px;
     color: gray;
 }
 
 .subtitle{
     color: rgb(46, 166, 206);
+}
+
+.date{
+    color: gray;
 }
 
 #main-photo1{
